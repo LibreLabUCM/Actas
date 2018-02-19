@@ -10,7 +10,7 @@ Asistentes:
   - Manuel (LLU)
   - Eric(ASCII)
   - Marina (ASCII)
-  - Humper (ASCII)
+  - Fernando (ASCII)
   - Daniel García Baameiro (LLU)
   - Miriam Tendero López (LLU) 
 
