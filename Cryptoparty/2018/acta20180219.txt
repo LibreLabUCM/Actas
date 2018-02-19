@@ -8,7 +8,7 @@ Asistentes:
   - Jose Luis V. Poletti
   - Esther (LLU)
   - Manuel (LLU)
-  - Minion(ASCII)
+  - Eric(ASCII)
   - Marina (ASCII)
   - Humper (ASCII)
   - Daniel García Baameiro (LLU)
