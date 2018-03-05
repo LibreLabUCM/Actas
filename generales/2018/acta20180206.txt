@@ -1,56 +1,56 @@
-Facultad de Inform·tica UCM - Madrid - 06 de Febrero 2018
+Facultad de Inform√°tica UCM - Madrid - 06 de Febrero 2018
 
 Asistentes:
 
-Francisco JosÈ Fern·ndez Ferreiro
-Pablo GarcÌa de los Salmones Valencia
-Abel 
+Francisco Jos√© Fern√°ndez Ferreiro
+Pablo Garc√≠a de los Salmones Valencia
+Abel
 Jorge
 Esther
 Diego (Psycho)
-Miriam Tendero LÛpez
+Miriam Tendero L√≥pez
 Zildj1an
 
-Daniel GarcÌa Baameiro no asiste, cualquier decisiÛn a tomar da su consentimiento para que lo haga por el, a Miriam Tendero LÛpez. 
+Daniel Garc√≠a Baameiro no asiste, cualquier decisi√≥n a tomar da su consentimiento para que lo haga por el, a Miriam Tendero L√≥pez.
 
-Se comienza preguntando si se ha leÌdo el cÛdigo de conducta. 
+Se comienza preguntando si se ha le√≠do el c√≥digo de conducta.
 
 Hora comienzo: 13:00h en el aula 6.
 
 =========== ACTA ANTERIOR =============
-Se pregunta sobre las actas anteriores. Hay que corregir actas anteriores. Se muestra el acta anterior. Se pregunta por el acta anterior a esta. Falta mucha gente sin indicar, Fran y Manuel. Se propone apuntar solo a quien asiste al 50% de la reuniÛn, o un mÌnimo de participaciÛn. Pablo, propone que al final de cada reuniÛn se revise y se decida quiÈn se apunta como asistentes. Se comenta que no se est· de acuerdo con que gente aparece en el acta cuando solo ha acudido 2 min. Se comprueba el acta, se recomienda por parte de Miriam volver a subir las actas a GitHub, Abel apoya la idea. Se habla del tema de coinhive y el problema de que la UCM lo cape, Pablo comenta que hay manera.  
+Se pregunta sobre las actas anteriores. Hay que corregir actas anteriores. Se muestra el acta anterior. Se pregunta por el acta anterior a esta. Falta mucha gente sin indicar, Fran y Manuel. Se propone apuntar solo a quien asiste al 50% de la reuni√≥n, o un m√≠nimo de participaci√≥n. Pablo, propone que al final de cada reuni√≥n se revise y se decida qui√©n se apunta como asistentes. Se comenta que no se est√° de acuerdo con que gente aparece en el acta cuando solo ha acudido 2 min. Se comprueba el acta, se recomienda por parte de Miriam volver a subir las actas a GitHub, Abel apoya la idea. Se habla del tema de coinhive y el problema de que la UCM lo cape, Pablo comenta que hay manera.
 
-Se habla del tema de la reprografÌa de derecho y los responsables. Abel se propone voluntario si nadie nuevo lo hace. Se anima a que participe los dem·s.
+Se habla del tema de la reprograf√≠a de derecho y los responsables. Abel se propone voluntario si nadie nuevo lo hace. Se anima a que participe los dem√°s.
 
-Tema TV-Lag, se hablÛ con la presidenta sobre la nevera, el motivo que da por lo de la nevera es porque es un riesgo a estar encendida todo el tiempo el consumo energÈtico y si hubiera alg˙n problema con el voltaje. Abel, comenta que no ve que sea problema, Fran igual, que se puede hacer algo. Si en un futuro hay nevera, se volver· a hablar con el Gerente. Idea Pablo, conectar varios servidores, contar con un SAI o UPS. 
+Tema TV-Lag, se habl√≥ con la presidenta sobre la nevera, el motivo que da por lo de la nevera es porque es un riesgo a estar encendida todo el tiempo el consumo energ√©tico y si hubiera alg√∫n problema con el voltaje. Abel, comenta que no ve que sea problema, Fran igual, que se puede hacer algo. Si en un futuro hay nevera, se volver√° a hablar con el Gerente. Idea Pablo, conectar varios servidores, contar con un SAI o UPS.
 
-CÛdigo de conducta, se pregunta si se esta de acuerdo. Esther, comenta que no es objetivo el cÛdigo de conducta. Dan su opiniÛn el resto, que hay que ser responsable. 
+C√≥digo de conducta, se pregunta si se esta de acuerdo. Esther, comenta que no es objetivo el c√≥digo de conducta. Dan su opini√≥n el resto, que hay que ser responsable.
 
 Se retoma el tema de los asistentes del acta anterior.
 
-CÛdigo de conducta aprobado. 
+C√≥digo de conducta aprobado.
 
 ========== PONENCIAS ===========
-Hay una p·gina de eventos de la UCM donde se pueden aÒadir las actividades. Quien quiera aparecer que lo diga.
+Hay una p√°gina de eventos de la UCM donde se pueden a√±adir las actividades. Quien quiera aparecer que lo diga.
 
 (Nos movemos al despacho)
 
 ========== SANGRIADA COORDINADORA UCM-UPM =========
-Se habla de una actividad de la UCM/UPM de si se est· de acuerdo y de decidir cuanto invertir en ello. Se esta de acuerdo en participar, el tesorero propone ir a la reuniÛn.
-La sangriada ser· en el jardin de filosofÌa el viernes 16 de febrero. Coincide con la pizzas LLU. Ser· sangriada + pizzas.
+Se habla de una actividad de la UCM/UPM de si se est√° de acuerdo y de decidir cuanto invertir en ello. Se esta de acuerdo en participar, el tesorero propone ir a la reuni√≥n.
+La sangriada ser√° en el jardin de filosof√≠a el viernes 16 de febrero. Coincide con la pizzas LLU. Ser√° sangriada + pizzas.
 
-=========== SEM. INFORM¡TICA ===========
-Este jueves Install Party. Se habla de la propuesta de Manuel, de montar un servidor PXE. 
+=========== SEM. INFORM√ÅTICA ===========
+Este jueves Install Party. Se habla de la propuesta de Manuel, de montar un servidor PXE.
 Llevar pendrives que haya disponibles.
 Intalar SOs en servidores mientras se hace la install party.
 
 =========== CRYPTOPARTY ===========
-Va a haber otra ediciÛn de la cryptoparty este aÒo.
-Se va a buscar un sitio que no sea colegio para este aÒo.
+Va a haber otra edici√≥n de la cryptoparty este a√±o.
+Se va a buscar un sitio que no sea colegio para este a√±o.
 Interesad@s unirse al grupo de telegram.
 Fecha tentativa: 5 de abril (?)
 
-=========== ACTIVIDADES 2∫ cuatri ===========
+=========== ACTIVIDADES 2¬∫ cuatri ===========
 Hacemos hackea como si estuvieras en primero?
 Decider fechas. Seguir restricciones de ponentes.
 hablar con Pablo para fechas ponencias.
