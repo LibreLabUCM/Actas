@@ -1,4 +1,5 @@
 # Actas
+Este repositorio está desactualizado. El resto de las actas se podrán encontrar en el repositorio de GitLab o como socios en la web de LibreLabUCM.
 Repo para guardar actas de asambleas y reuniones
 
 Se decidió en la reunión del 30 de octubre empezar a publicar las actas en github.
